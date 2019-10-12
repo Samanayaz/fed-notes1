@@ -13,4 +13,5 @@ git push
     - to push changes made to repo on GitHub
 
 git pull
-    - to retrieve changes made to my computer by other developers
+    - to retrieve changes made to my computer by other developerstouch
+    
