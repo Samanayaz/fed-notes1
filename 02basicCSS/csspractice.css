@@ -1,0 +1,31 @@
+body {
+    background: powderblue;
+}
+h1 {
+    color: rgb(145, 11, 145);
+}
+
+div p {
+    color: rgb(190, 65, 86);
+}
+ h4 {
+     color: rgb(65, 105, 112);
+ }
+
+ div:nth-of-type(odd) p { 
+     background: rgb(193, 193, 219);
+    }
+
+ div:nth-last-of-type(even) p {
+     background: rgb(199, 191, 201);
+ }
+ 
+
+
+ h1:hover {
+     color: teal;
+ }
+
+ h4:hover {
+     color: black
+ }
